@@ -1,0 +1,7 @@
+Python IDE
+pandas
+numpy
+scikitlearn
+matplotlib
+..
+Will update in next commit
