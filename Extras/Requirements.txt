@@ -3,5 +3,7 @@ pandas
 numpy
 scikitlearn
 matplotlib
+urllib
+
 ..
 Will update in next commit
